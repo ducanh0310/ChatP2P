@@ -1,0 +1,6 @@
+{
+  "name": "P2P Chat System",
+  "description": "Hệ thống Chat Ngang hàng Peer-to-Peer (P2P) với Mã hóa lai E2EE RSA-OAEP / AES-GCM và mô phỏng định tuyến mạng lưới (mesh routing) trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
